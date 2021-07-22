@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+header {
+  width: 100%;
+  position: fixed;
+  background: white;
+  color: black;
+  text-align: center;
+}
+
+.collage {
+  padding-top: 100px;
+  margin-left: 100px;
+}
